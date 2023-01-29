@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I’m Petr, a tech enthusiast who like to play with Azure, Terraform and other interresting tools
+
+- 🔭 I’m currently working on state store Terraform provider (comming soon ..)
+
 <!--
 **petr-stupka/petr-stupka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
