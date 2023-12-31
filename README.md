@@ -1,9 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-I’m Petr, a tech enthusiast who like to play with Azure, Terraform and other interresting tools [LinkedIn](https://www.linkedin.com/in/petr-stupka)
+I’m Petr, a tech enthusiast who like to play with GitHub, Azure, Terraform and other interresting tools [LinkedIn](https://www.linkedin.com/in/petr-stupka)
 
 - 🔭 I’m currently working as a Cloud Solution Architect @ <a href="https://www.glueckkanja-gab.com/en" target="_blank"><img align="center" src="https://res.cloudinary.com/c4a8/image/upload/c_limit,f_auto,q_auto,dpr_auto,w_150/logos/gkgab-Logo-vektor.svg" alt="glueckkanja-gab" />
-  
+
+### Certified
+
+<p>
+	<img src="https://images.credly.com/images/34880f37-8ec8-4542-a78a-73ba6647208e/image.png" width="120" />
+	<img src="https://images.credly.com/images/99289602-861e-4929-8277-773e63a2fa6f/image.png" width="110" />
+</p>
+
+## Interresting topics
+
 ### Azure
 
 * Terraform
