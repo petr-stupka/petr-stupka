@@ -23,7 +23,7 @@ I’m Petr, a tech enthusiast who like to play with GitHub, Azure, Terraform and
 	
 ### Github
 
-* Comming soon
+- [Terraform Actions](https://github.com/petr-stupka/terraform-github-actions) - Plan, Appy & Drift detection
 
 ### Interresting content
 
