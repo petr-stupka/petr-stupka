@@ -2,8 +2,6 @@
 
 I’m Petr, a tech enthusiast who like to play with GitHub, Azure, Terraform and other interresting tools
 
-- 🔭 I’m currently working as a Cloud Solution Architect @ <a href="https://www.glueckkanja-gab.com/en" target="_blank"><img align="center" src="https://res.cloudinary.com/c4a8/image/upload/c_limit,f_auto,q_auto,dpr_auto,w_150/logos/gkgab-Logo-vektor.svg" alt="glueckkanja-gab" />
-
 [LinkedIn](https://www.linkedin.com/in/petr-stupka)
 
 ### Certified
@@ -14,12 +12,6 @@ I’m Petr, a tech enthusiast who like to play with GitHub, Azure, Terraform and
 </p>
 
 ## Interresting topics
-
-### Azure
-
-* Terraform
-	- [glueckkanja-gab/terraform-provider-aztools](https://github.com/glueckkanja-gab/terraform-provider-aztools) - Azure naming convention provider
-	- [glueckkanja-gab/terraform-provider-azstatestore](https://github.com/glueckkanja-gab/terraform-provider-aztools) - Comming soon. Custom state store using azure resources.
 	
 ### Github
 
